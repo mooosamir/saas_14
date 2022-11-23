@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Copyright 2020 Eugene Molotov <https://it-projects.info/team/em230418>
-     License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl.html). -->
+     License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl.html). tt -->
 <odoo>
     <template inherit_id="auth_signup.fields" id="additional_fields" name="Auth Signup additional form fields">
 
